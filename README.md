@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Entry-level cybersecurity operator focused on threat analysis, system hardening, and adversarial thinking. <br><br>I build and break systems to understand how they fail, and I’m actively sharpening skills in penetration testing, exploit development, and incident response. <br><br>I collaborate on anything that strengthens defense or exposes weaknesses open-source tooling, Python automation, red-team exercises, or security lab simulations. <br><br>Currently expanding hands-on experience with SIEM/SOAR workflows, malware fundamentals, and real-world attack patterns. Ask me about Linux security, network defense strategies, CTF methodology, or building security capability from zero.<br> <br>I don’t do balance only execution, iteration, and improvement.<br>
 
 
